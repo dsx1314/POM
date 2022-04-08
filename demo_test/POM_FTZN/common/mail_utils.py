@@ -14,7 +14,7 @@ def send_test_report(subject, contents, report):
     """
     # 连接邮件发送服务器
     mail = yagmail.SMTP(user='2986787982@qq.com',
-                        password='fsjxmtdqxnsudege',
+                        password='vbxpaxktpeildggf',
                         host='smtp.qq.com')
 
     wb = load_workbook('D:\\POM_ftzn\\lib\\system_config.xlsx')
@@ -25,9 +25,9 @@ def send_test_report(subject, contents, report):
     for row in ws:
         # print(row[0].value)
         addr.append(row[0].value)
-
+    # print(addr)
     addr.pop(0)
-    print(addr)
+    # print(addr)
 
 
     # 发送邮件
@@ -41,5 +41,5 @@ def send_test_report(subject, contents, report):
 
 
 if __name__ == '__main__':
-    send_test_report('今晚8点老地方', 'xxxx', 'D:\\POM_ftzn\\output\\report\\index.html')
+    send_test_report('今晚8点老地方', '小树林等你', 'D:\\POM_ftzn\\output\\report\\index.html')
     print("-----发送成功-----")

@@ -11,6 +11,6 @@ def main():
     else:
         print('生成测试报告失败')
 
-    send_test_report('今晚9点老地方', '查看测试报告', 'D:\\POM_ftzn\\output\\report\\index.html')
+    send_test_report('今晚9点老地方', '小树林一起', 'D:\\POM_ftzn\\output\\report\\index.html')
 if __name__ == '__main__':
     main()
