@@ -1,0 +1,234 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MS-FTVDBNSQCIOM",
+    "children" : [ {
+      "name" : "16264-MainThread",
+      "children" : [ {
+        "name" : "停车列表用例",
+        "uid" : "43be150858b9c403",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109369065,
+          "stop" : 1651109377505,
+          "duration" : 8440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['龙虾车场']" ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "4c67c90456157ab9",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109382619,
+          "stop" : 1651109387832,
+          "duration" : 5213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['复测']" ]
+      }, {
+        "name" : "大车场区域",
+        "uid" : "5ce78b805709e4b7",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109415771,
+          "stop" : 1651109426397,
+          "duration" : 10626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "b703a0b32d121d44",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109377510,
+          "stop" : 1651109382614,
+          "duration" : 5104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['测试数据']" ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "218ff8d8a7ee503c",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109393272,
+          "stop" : 1651109398391,
+          "duration" : 5119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['  龙虾车场']" ]
+      }, {
+        "name" : "车道新增测试用例",
+        "uid" : "9022db3a7f69d362",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109435166,
+          "stop" : 1651109446218,
+          "duration" : 11052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "efde723ff9bda63e",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109398395,
+          "stop" : 1651109403496,
+          "duration" : 5101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['qwe测试数据@#']" ]
+      }, {
+        "name" : "M款设备",
+        "uid" : "a4144e297dfc0c96",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109426400,
+          "stop" : 1651109435163,
+          "duration" : 8763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "6dd0b081eb164294",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109387837,
+          "stop" : 1651109393264,
+          "duration" : 5427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['车场']" ]
+      }, {
+        "name" : "新增岗亭",
+        "uid" : "9359bfa3f7d6f685",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109408756,
+          "stop" : 1651109415767,
+          "duration" : 7011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "月租车新增测试用例",
+        "uid" : "287c3e25e477763c",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109446222,
+          "stop" : 1651109465520,
+          "duration" : 19298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "月租车导入用例",
+        "uid" : "a54c11b1e15607a2",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109465524,
+          "stop" : 1651109479369,
+          "duration" : 13845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停车列表用例",
+        "uid" : "9c40e377a15bf560",
+        "parentUid" : "d49719d3f4621c9bd3847d8daa12e9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651109403501,
+          "stop" : 1651109408751,
+          "duration" : 5250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['acvb龙虾车场111']" ]
+      } ],
+      "uid" : "d49719d3f4621c9bd3847d8daa12e9dc"
+    } ],
+    "uid" : "9d0be196da508ae63922fedcf50eaba5"
+  } ]
+}

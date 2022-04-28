@@ -1,0 +1,116 @@
+{
+  "uid" : "218ff8d8a7ee503c",
+  "name" : "停车列表用例",
+  "fullName" : "script.test_login.TestLogin#test_a_01",
+  "historyId" : "21c8e1fb6901c852007a74c286cebfe4",
+  "time" : {
+    "start" : 1651109393272,
+    "stop" : 1651109398391,
+    "duration" : 5119
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLogin",
+    "time" : {
+      "start" : 1651109352777,
+      "stop" : 1651109369063,
+      "duration" : 16286
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "75ec6a8369cc5d0e",
+      "name" : "24b610df-4db7-450b-ba30-16becd2fb578-attachment.png",
+      "source" : "75ec6a8369cc5d0e.png",
+      "type" : "image/png",
+      "size" : 90897
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLogin::0",
+    "time" : {
+      "start" : 1651109479370,
+      "stop" : 1651109484787,
+      "duration" : 5417
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "停车列表"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "MS-FTVDBNSQCIOM"
+  }, {
+    "name" : "thread",
+    "value" : "16264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carlist",
+    "value" : "['  龙虾车场']"
+  } ],
+  "links" : [ {
+    "name" : "百度",
+    "url" : "http://www.baidu.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "218ff8d8a7ee503c.json",
+  "parameterValues" : [ "['  龙虾车场']" ]
+}
